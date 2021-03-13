@@ -44,3 +44,30 @@ Comprehensive frontend development course: advanced JavaScript, ES6, DOM API, Re
 _May – June 2020_
 
 Advanced web-pages development: work with CSS Grid and Flexbox layouts, Sass and npm ecosystem usage, complex animation on pages.
+
+### Skills
+
+#### 🔮 Frontend
+
+JavaScript (ES6), basic OOP and asynchronous programming. React.JS (classes, functional components, hooks), Redux, HTML5, CSS3 (Sass), BEM. Figma, Avocode, Adobe Photoshop, cross-browser development / responsive web design.
+UI components libraries: Bootstrap, Tailwind.
+Other tools/utilities: redux-form, use-immer, classnames, Formik, math.js.
+
+#### 🔧 Software Development
+
+Git (GitHub), bash basics, npm, Node.js, Express, Gulp, Babel, eslint, unit-testing with Jest, Lodash, VS Code, Sublime Text, axios, Prettier.
+
+#### 🌍 Languages
+
+- Russian – Native
+- English — Advanced
+- Polish — Pre-Intermediate
+- German — Beginner
+
+#### 🖋️ Content Management
+
+Copywriting and editing, localization and translation, internal and external communications, brand marketing, creative writing.
+
+#### 🏷️ Marketing
+
+Brand marketing, SMM (VK.com, Facebook, Instagram, LinkedIn), Facebook Ads Manager.
