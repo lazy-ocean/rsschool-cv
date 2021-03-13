@@ -11,6 +11,28 @@ Self-taught frontend developer with a great comprehension of JavaScript, React.J
 💼 [LinkedIn](https://www.linkedin.com/in/vladlena-panchenko/)  
 🤓 [Personal website](https://lazy-ocean.github.io/)
 
+### Notable projects
+
+#### 🧮 React calculator — [GitHub Pages](https://lazy-ocean.github.io/calculator/)
+
+This is a simple calculator that supports basic arithmetic calculations on integers.<br>
+**Used stack**: React.JS, JavaScript, CSS3 (Sass), HTML5, math.js.
+
+#### 🔠 React data grid — [GitHub Pages](https://lazy-ocean.github.io/data-table/)
+
+Comprehensive data-table for unlimited set of data made with Material UI components library.<br>
+**Used stack**: React.JS, TypeScript, Material UI.
+
+#### 💰 ROI calculation form — [Inspair website](https://inspair.ru/calc)
+
+Interactive form to calculate project ROI and generate annual cash flow table, designed and developed for robotics system integrator Inspair. <br>
+**Used stack**: CSS3 (Sass), HTML5, JavaScript, Gulp.
+
+#### 🐗 [Gdziedzik.pl](http://Gdziedzik.pl)
+
+Web app to check and report wild boars sightings. Built during HackYeah 2020 hackathon.<br>
+**Used stack**: CSS3 (Sass), HTML5, JavaScript, Parcel.
+
 ### Working experience
 
 #### EY Russia, Moscow / remote — Employer Brand Specialist, Copywriter
